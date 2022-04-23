@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there ⚡
+
+My name is Matheus Alexandria, I have 24 years old and I'm in the path to become a web developer. I'm currently working with data science and automation in
+Mundo Pet, but my goal is start working on web developing, focusing in the server side of applications.
+
+I enjoy programming and lately I've done..
 
 <!--
 **Matchobas/Matchobas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
