@@ -3,7 +3,11 @@
 My name is Matheus Alexandria, I have 24 years old and I'm in the path to become a web developer. I'm currently working with data science and automation in
 Mundo Pet, but my goal is start working on web developing, focusing in the server side of applications.
 
-I enjoy programming and lately I've done..
+I enjoy programming and creating projects, lately I've studied and worked with:
+1. NodeJS (Express, TypeORM, Multer, Tsyringe)
+2. TypeScript
+3. Python (Selenium, Requests, Pandas, NumPy)
+4. Docker/Docker-compose
 
 <!--
 **Matchobas/Matchobas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
