@@ -4,9 +4,9 @@ My name is Matheus Alexandria, I have 24 years old and I'm in the path to become
 Mundo Pet, but my goal is start working on web developing, focusing in the server side of applications.
 
 I enjoy programming and creating projects, lately I've studied and worked with:
-1. NodeJS (Express, TypeORM, Multer, Tsyringe)
+1. NodeJS (Express, Prisma, Multer, Tsyringe)
 2. TypeScript
-3. Python (Selenium, Requests, Pandas, NumPy)
+3. Python (Selenium, Requests, Pandas, Matplotlib)
 4. Docker/Docker-compose
 
 <!--
