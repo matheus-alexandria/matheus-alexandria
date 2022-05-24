@@ -1,4 +1,6 @@
-### Hi there ⚡
+
+
+### Hey!
 
 My name is Matheus Alexandria, I have 24 years old and I love programming. I'm currently working with automation and databases in
 Mundo Pet, but my goal is to start working on web development, focusing in the server side of applications.
@@ -47,6 +49,12 @@ I enjoy programming and creating new projects, using different kinds of technolo
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Logo"/>
 </a>
+
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Logo"/>
+</a>
+
+I'm now being more active and trying to commit more in my personal repositories everyday, always learning and applying what I learn!
 <!--
 **Matchobas/Matchobas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
