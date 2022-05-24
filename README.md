@@ -54,7 +54,7 @@ I enjoy programming and creating new projects, using different kinds of technolo
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Logo"/>
 </a>
 
-<br>
+</br>
 
 I'm now being more active and trying to commit more in my personal repositories everyday, always learning and applying what I learn!
 <!--
