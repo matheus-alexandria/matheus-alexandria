@@ -2,10 +2,15 @@
 
 ### Hey!
 
-My name is Matheus Alexandria, I have 24 years old and I love programming. I'm currently working with automation and databases in
-Mundo Pet, but my goal is to start working on web development, focusing in the server side of applications.
+My name is Matheus Alexandria, I'm 24 years old, live in Brazil and also love programming and games. I'm currently working with ETL and databases, but my goal is to start working full time with web development.
 
-I enjoy programming and creating new projects, using different kinds of technologies:
+<div>
+  <a href="https://github.com/Matchobas/Matchobas"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matchobas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matchobas&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+I enjoy programming and creating new projects, my personal projects usually are related to D&D tools and organizational tools. To make most of my projects I work with these technologies:
 
 <h3>Back-End</h3>
 <a href="" target="_blank">
