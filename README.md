@@ -6,8 +6,8 @@ My name is Matheus Alexandria, I'm 24 years old, live in Brazil and also love pr
 
 <div>
   <a href="https://github.com/Matchobas/Matchobas"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matchobas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matchobas&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matchobas&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matchobas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 I enjoy programming and creating new projects, my personal projects usually are related to D&D tools and organizational tools. To make most of my projects I work with these technologies:
