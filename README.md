@@ -22,6 +22,10 @@ I'm most used to work with these technologies:
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express Logo"/>
 </a>
 
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JavaScript Logo"/>
+</a>
+
 <a href="https://www.typescriptlang.org" target="_blank">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Logo"/>
 </a>
