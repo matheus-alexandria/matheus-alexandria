@@ -11,7 +11,7 @@ My name is Matheus Alexandria, I'm 24 years old, live in Brazil and also love pr
 </div>
 <a href="https://www.linkedin.com/in/matheus-alexandria-374762182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </br></br>
-I'm most used to work with these technologies:
+I'm used to work with these technologies:
 
 <h3>Back-End</h3>
 <a href="" target="_blank">
@@ -42,7 +42,11 @@ I'm most used to work with these technologies:
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Logo"/>
 </a>
 
-<h3>Automation</h3>
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux Logo"/>
+</a>
+
+<h3>Data</h3>
 
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Logo"/>
