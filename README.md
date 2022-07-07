@@ -2,15 +2,16 @@
 
 ### Hey!
 
-My name is Matheus Alexandria, I'm 24 years old, live in Brazil and also love programming and games. I'm currently working with ETL and databases, but my goal is to start working full time with web development.
+My name is Matheus Alexandria, I'm 24 years old, live in Brazil and also love programming and games. At my current job I work with ETL and databases, but my goal is to work with web development, and that's what you will find in my github!
 
 <div>
   <a href="https://github.com/Matchobas/Matchobas"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matchobas&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matchobas&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-I enjoy programming and creating new projects, my personal projects usually are related to D&D tools and organizational tools. To make most of my projects I work with these technologies:
+<a href="https://www.linkedin.com/in/matheus-alexandria-374762182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</br>
+I'm most used to work with these technologies:
 
 <h3>Back-End</h3>
 <a href="" target="_blank">
