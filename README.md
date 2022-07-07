@@ -10,7 +10,7 @@ My name is Matheus Alexandria, I'm 24 years old, live in Brazil and also love pr
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matchobas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <a href="https://www.linkedin.com/in/matheus-alexandria-374762182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</br>
+</br></br>
 I'm most used to work with these technologies:
 
 <h3>Back-End</h3>
@@ -61,8 +61,6 @@ I'm most used to work with these technologies:
 </a>
 
 </br>
-
-I'm now being more active and trying to commit more in my personal repositories everyday, always learning and applying what I learn!
 <!--
 **Matchobas/Matchobas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
