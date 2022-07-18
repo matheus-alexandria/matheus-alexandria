@@ -46,6 +46,24 @@ I'm used to work with these technologies:
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux Logo"/>
 </a>
 
+<h3>Front-End</h3>
+
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="ReactJS Logo"/>
+</a>
+
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native Logo"/>
+</a>
+
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Logo"/>
+</a>
+
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind css Logo"/>
+</a>
+
 <h3>Data</h3>
 
 <a href="" target="_blank">
