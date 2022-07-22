@@ -2,7 +2,7 @@
 
 ### Hey!
 
-My name is Matheus Alexandria, I'm 24 years old, live in Brazil and also love programming and games. At my current job I work with ETL and databases, but my goal is to work with web development, and that's what you will find in my github!
+My name is Matheus Alexandria, I'm 24 years old, live in Brazil and also love programming and games. At my current job I develop the front-end part of apps, but my github has mostly back-end content! (until now)
 
 <div>
   <a href="https://github.com/Matchobas/Matchobas"></a>
