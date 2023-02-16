@@ -2,13 +2,14 @@
 
 ### Hey!
 
-My name is Matheus Alexandria, I'm 24 years old, live in Brazil and also love programming and games. At my current job I develop the front-end part of apps, but my github has mostly back-end content! (until now)
-
+My name is Matheus Alexandria, I'm 25 years old, live in Brazil and love programming and playing indie games. At my current I'm a fullstack developer with React, Node.js and other tools. My github is focused on creating personal apps to study and improve in my prefered stacks (until now).
+<!--
 <div>
   <a href="https://github.com/Matchobas/Matchobas"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matchobas&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matchobas&layout=compact&langs_count=7&theme=dark"/>
 </div>
+-->
 <a href="https://www.linkedin.com/in/matheus-alexandria-374762182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </br></br>
 I'm used to work with these technologies:
@@ -53,11 +54,11 @@ I'm used to work with these technologies:
 </a>
 
 <a href="" target="_blank">
-<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native Logo"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Logo"/>
 </a>
 
 <a href="" target="_blank">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Logo"/>
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components Logo"/>
 </a>
 
 <a href="" target="_blank">
