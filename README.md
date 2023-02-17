@@ -42,10 +42,6 @@ I'm used to work with these technologies:
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Logo"/>
 </a>
-
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux Logo"/>
-</a>
 <!--               Front End technologies              -->
 <h3>Front-End</h3>
 
@@ -80,7 +76,7 @@ I'm used to work with these technologies:
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS logo"/>
 </a>
-<!--               Data and Python technologies              -->
+<!--               Devops technologies              -->
 <h3>Data</h3>
 
 <a href="" target="_blank">
@@ -88,19 +84,11 @@ I'm used to work with these technologies:
 </a>
 
 <a href="" target="_blank">
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Logo"/>
-</a>
-
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium Logo"/>
-</a>
-
-<a href="" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Logo"/>
-</a>
-
-<a href="" target="_blank">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Logo"/>
+</a>
+
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Logo"/>
 </a>
 
 </br>
