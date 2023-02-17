@@ -46,7 +46,7 @@ I'm used to work with these technologies:
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux Logo"/>
 </a>
-
+<!--               Front End technologies              -->
 <h3>Front-End</h3>
 
 <a href="" target="_blank">
@@ -65,6 +65,22 @@ I'm used to work with these technologies:
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind css Logo"/>
 </a>
 
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux logo"/>
+</a>
+
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" alt="Socket.io logo"/>
+</a>
+
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite logo"/>
+</a>
+
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS logo"/>
+</a>
+<!--               Data and Python technologies              -->
 <h3>Data</h3>
 
 <a href="" target="_blank">
