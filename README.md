@@ -77,7 +77,7 @@ I'm used to work with these technologies:
 <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="ThreeJS logo"/>
 </a>
 <!--               Devops technologies              -->
-<h3>Data</h3>
+<h3>DevOps</h3>
 
 <a href="" target="_blank">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Logo"/>
