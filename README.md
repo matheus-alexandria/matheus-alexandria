@@ -5,9 +5,9 @@
 My name is Matheus Alexandria, I'm 25 years old, live in Brazil and love programming and playing indie games. At my current I'm a fullstack developer with React, Node.js and other tools. My github is focused on creating personal apps to study and improve in my prefered stacks (until now).
 
 <div>
-  <a href="https://github.com/Matchobas/Matchobas"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matchobas&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matchobas&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/matheus-alexandria/matheus-alexandria"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-alexandria&show_icons=true&theme=dark&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-alexandria&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <a href="https://www.linkedin.com/in/matheus-alexandria-374762182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </br></br>
