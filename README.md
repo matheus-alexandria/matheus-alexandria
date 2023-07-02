@@ -2,7 +2,7 @@
 
 ### Hey!
 
-My name is Matheus Alexandria, I'm 25 years old, live in Brazil and love programming and playing indie games. At my current I'm a fullstack developer with React, Node.js and other tools. My github is focused on creating personal apps to study and improve in my prefered stacks (until now).
+My name is Matheus, I`m a brazilian programmer that loves games (really original). Currently I'm a fullstack developer with React, Node.js and other tools. My github is focused on creating personal apps to study and improve in my main stacks (until now). Feel free to dig in!
 
 <div>
   <a href="https://github.com/matheus-alexandria/matheus-alexandria"></a>
